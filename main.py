@@ -4,13 +4,14 @@ from facebook_business.api import FacebookAdsApi
 from google.cloud import bigquery
 from dotenv import load_dotenv
 from enum import Enum
+import google.auth
 import requests
 import json
 
 load_dotenv()
 
 def bq(data):
-
+    credentials = google.auth.default()
     client = bigquery.Client()
     rows_insert = data
 

@@ -1,4 +1,5 @@
 facebook_business
 google-cloud-bigquery
+google-auth
 flask
 python-dotenv
