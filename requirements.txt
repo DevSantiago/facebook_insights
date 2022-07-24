@@ -1,0 +1,4 @@
+facebook_business
+google-cloud-bigquery
+flask
+python-dotenv

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "movistar-proyecto",
+  "private_key_id": "94c1c832dd36d8cbc5a2a8300265a6ef4e01d819",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvIj4MOoO3RiAY\nl3AC8t1Io+dV7bhxWqaZfqlObpFGsjgfw3wx52b4PdGhXUV+qOFISwbjwZYd0aBk\nIi8twkspFv/rf96CZ+SehdeI72/+YizpK/VwES7iHdh/qXkbkI/zJ8d/WqsMkJES\nEr09PtIVihm+CW5gwcqSPHMrYff24+vPYzyMogEpdQ+BxwfjBHnvv4FA7TRhCzga\njxQGtHepYJjX1FqqnHm6YyVycVrGbL4S6GFBMTG4M5IF/Z8MftQOYDs4QmeQawxF\nxBQgNwFFLzRPTISWqt+5oo3ZhIf4WTOGEl6xu0ARs1y1/1xRR7Dbmb+KZNz2JXZq\nWoK2DfafAgMBAAECggEALa8hf2AeLsc4pSGPwv0mUwYKWORnag5LChw7vu1hsQ7Z\nTBPayEvEFPpPPigN8kHMbma/19aOOZ4OmEBAjU+y+nd4764N1XeTb/Sa6ioHTVS/\nwV1Jq1+YGrzNVlPXdyTJIBUe2a5Fk0P8y7meqqTB+YNqPqPIKq4ykN367vSh0cFo\nBsbM7ocK+2QRe+3dSMo+x94Y+Pa/jX2/34ff5ZozVbhYU9cYpSqBncrUW1WwoHwy\n9OyctW+Elzy5dLbngoX+MojMa2tC0EABN6uRnnURh/Wae1XfJg9S7qblOgOfdNyO\nQU+rGzg89mdSxyG5l4Ko4Z46vOwZ4gxT7DSZyvADqQKBgQD0xo0kRVr6kcLgOfHB\nNltwU7v1dftAeV8VCmJwdnZzILciWkdHeS8cYUzBEV5DR4c5UdDuf16IZttb8nHa\nTwRo4bXb1t6lstpd/Pjukq+V7EMZ7pNWKJX5EuG08/OxI7bXSVm7sCLluP3MuKMK\naBjptqsPmCjVq077crvjbN2RJwKBgQC3KihZBizhOWRgxaNJjgWJAzLn7HZy2129\nK8505SejkubnQTBvKAF/ZWABaLBCY1prYLagmfjJXgX/StWsPDGu55ZYOCG1OBzG\n8ATsGDMLZ25FgYFTctBmOox3soMEmdu771zyqIkRiZMrm4Imc2U8Ktpr0vRqNoV/\nYmGjRMJpyQKBgFIJndJzQEvMwKDAKuuT2U+rcMqS8VOpmhmGMnn46jgp1dc4pL0q\nu4Rqg/wNYydveL3YUwssOzXCK3EEr+34H8U7KOV2fYbRi+iGWbQ0C49W8SJm2JC+\n54zkLCumu506GBTNq7qBDSErQDz2AQcC3p6uL2T5nW4HjWAvExPlL9lvAoGAHYe4\ndZHfTnh4THnQt50kG1DetjGTbzUaydL0ODhxyZd3jrUd3+3tP+LSNafxMuLdww4W\no5HvYFe+U8h25ovV3sMLpDF4jcT8Lr6nrIDCSgZk6uPUO+X432J1Hx8yrF055fTT\nYXP2lVM+3Pr3Yseb/LVT/apHKZCcuUrdPvto9LECgYA+4bnM36CSrd59PYdlEBwp\n5oBMCxP09hiXWhefd0HnJpbcVOQCjgMiNnoPkp/SHDetL+q/crq9pYqLrv78Dhwf\noUlcSe/vHgIbwqtx23GLGuocs25TQAAaiPtnJbOMYevcxYiKFmY5CklhuLfbk2jF\ncWt0lcZhjnksnTR0NdxbPg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "movistar-bigquery@movistar-proyecto.iam.gserviceaccount.com",
+  "client_id": "115143760193959360496",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/movistar-bigquery%40movistar-proyecto.iam.gserviceaccount.com"
+}
